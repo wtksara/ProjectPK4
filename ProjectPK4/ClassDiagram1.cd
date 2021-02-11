@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Employee">
+    <Position X="4" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IQCAIAIAADCCACAAAAAAAAAJDgACAAAAAgAKgAAAAAA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Construction">
+    <Position X="1.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAIAAAGAAACAAAAAAAAAAAAACA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Office">
+    <Position X="6.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAACAAAAAAAAAIAAAAABCAAQAAAIAAAAAAAI=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Supervise">
+    <Position X="0.5" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAAAAAQAAAAACAAAACgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carpenter">
+    <Position X="2.75" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAACCAAAAAAAAAAAAAAACAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager">
+    <Position X="8.25" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAACAAAAAAAAIAAAAAAACBAAAAAAAAAAAgAA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Account">
+    <Position X="4.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAACAAAAAAACAAAAABAAAAAAAEA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Driver">
+    <Position X="6.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABCAAAAAAAAAAACAQAACgAAAAAAIAAAAAAA=</HashCode>
+      <FileName>employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workplace">
+    <Position X="17.75" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAEACAAAAABAAAAAABAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company">
+    <Position X="15.25" Y="11" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAIQBAAACAABAAAAAEAAAAIAABEEAQAAAAABAAAEAA=</HashCode>
+      <FileName>company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntCompany">
+    <Position X="12.75" Y="4.25" Width="2" />
+    <InheritanceLine Type="Strategy" FixedToPoint="true">
+      <Path>
+        <Point X="14" Y="2.873" />
+        <Point X="14" Y="3.875" />
+        <Point X="13.75" Y="3.875" />
+        <Point X="13.75" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAEAgAEgSAABBCBAQAoAADAIAAAAAAAgAAAAAEEAA=</HashCode>
+      <FileName>intcompany.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Payment">
+    <Position X="20.5" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAABAAAAAAEIBIAAIAAAAIAAAAAAAACAAIIBAIA=</HashCode>
+      <FileName>payment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaymentQueue">
+    <Position X="18.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAiAAEgAEgAAABAACAAAgASAAAAAAABAAEIIAAAAAAA=</HashCode>
+      <FileName>payment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeBase">
+    <Position X="10.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAEgAIABAQAkAAggGARCAAAAAAAEIAAAAAAAA=</HashCode>
+      <FileName>employeebase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyBase">
+    <Position X="15.25" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAgQEgAgABAAAABCogQAACIAEAAAAAEAAAAQBAI=</HashCode>
+      <FileName>companybase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAgAEgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>strategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Contex">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEgAAADAAAAAAgAEAACIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>strategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
